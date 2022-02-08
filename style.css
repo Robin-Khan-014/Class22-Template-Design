@@ -1,0 +1,66 @@
+
+/* Slider-section */
+.btn{
+    background: rgb(98, 120, 223);
+    border: transparent;
+}
+.slider{
+    background: rgba(240, 240, 240, 0.829);
+}
+/* About-Section */
+.about-text{
+    text-align: left;
+}
+.button-2{
+    text-align: left;
+}
+.about-image{
+    margin-right: 12.5%;
+}
+/* Client-Reveiws -Section */
+.client-reviews{
+    background: rgb(98, 120, 223);
+}
+/* Economy-section */
+.economy{
+    background: rgb(228, 228, 243);
+}
+.Economy-box{
+    background: #fff;
+}
+.box-number{
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    background: rgb(249, 249, 255);
+}
+.box-number span{
+    font-size: 30px;
+    display: inline-block;
+}
+.economy-button{}
+.economy-button .eco-btn{
+    background: #fff;
+    color: rgb(98, 120, 223);
+    border: 1px solid rgb(98, 120, 223);
+}
+/* Programmer-Section */
+.card-img img{
+    width: 40.5%;
+    position: relative;
+    top: 16px;
+}
+.shadow {
+    box-shadow: 0 1rem 1rem rgba(0,0,0,.20)!important;
+}
+.p-btn{
+    background: #fff;
+}
+/* Contact-Section */
+.contact{
+    background: rgb(243, 243, 253);
+}
+/* Footer-Section */
+.Footer-bottom{
+    background: rgb(4, 9, 30);
+}
